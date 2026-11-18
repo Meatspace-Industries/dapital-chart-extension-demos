@@ -43,3 +43,7 @@ Click **Copy example** in **Settings > Extensions**. It puts an example extensio
 `llms.txt`, or give it to your AI tool.
 
 Errors from an extension are written to `.dapital/log.txt` in its folder.
+
+## License
+
+[MIT](LICENSE), with no warranty of any kind.

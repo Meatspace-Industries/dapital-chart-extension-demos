@@ -1,0 +1,3 @@
+{ "id": "delta-cvd", "name": "Delta and CVD", "api": 0,
+  "studies": ["delta.luau", "cvd.luau"],
+  "feeds": [{ "name": "trades", "url": "ws://127.0.0.1:8765/trades", "shape": "values" }] }
